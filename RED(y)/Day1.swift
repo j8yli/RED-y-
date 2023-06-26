@@ -15,7 +15,7 @@ struct Day1: View {
             .multilineTextAlignment(.center)
             .padding(.horizontal, 30.0)
             //feeling
-    Text("Today you may feel ___")
+    Text("Today you may feel happy")
                 .padding()
                 .padding(.horizontal, 30.0)
                 .padding(.trailing)
